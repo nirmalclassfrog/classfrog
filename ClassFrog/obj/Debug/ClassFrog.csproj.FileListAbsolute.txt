@@ -1,0 +1,13 @@
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\obj\Debug\ResolveAssemblyReference.cache
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\ClassFrog.dll
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\ClassFrog.pdb
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\EntityFramework.dll
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\EntityFramework.xml
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\obj\Debug\ClassFrog.dll
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\obj\Debug\ClassFrog.pdb
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\MongoDB.Bson.dll
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\MongoDB.Driver.dll
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\MongoDB.Bson.pdb
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\MongoDB.Bson.xml
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\MongoDB.Driver.pdb
+D:\Nirmal\Classfrog\ClassFrog\ClassFrog\bin\MongoDB.Driver.xml
